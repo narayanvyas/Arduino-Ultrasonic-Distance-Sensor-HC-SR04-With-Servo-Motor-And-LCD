@@ -14,10 +14,10 @@ Ultrasonic Distance Sensor HC-SR04 With Servo Motor Tower Pro SG90 And LCD.
 10. Jumper Wires
 
 ## Breadboard Diagram -
-![Breadboard Diagram](https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-SC-SR04-With-Servo-Motor/blob/master/Breadboard%20Diagram.jpeg)
+![Breadboard Diagram](https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-HC-SR04-With-Servo-Motor-And-LCD/blob/master/Breadboard%20Diagram.jpeg)
 
 ## Circuit Diagram -
-![Circuit Diagram](https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-SC-SR04-With-Servo-Motor/blob/master/Circuit%20Diagram.jpeg)
+![Circuit Diagram](https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-HC-SR04-With-Servo-Motor-And-LCD/blob/master/Circuit%20Diagram.jpeg)
 
 ## Authors
 [Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
