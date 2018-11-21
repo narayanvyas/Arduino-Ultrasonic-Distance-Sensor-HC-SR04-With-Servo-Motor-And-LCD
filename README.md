@@ -1,5 +1,5 @@
-# Ultrasonic Sensor With Servo Motor
-Ultrasonic Distance Sensor HC-SR04 With Servo Motor Tower Pro SG90.
+# Ultrasonic Sensor With Servo Motor And LCD
+Ultrasonic Distance Sensor HC-SR04 With Servo Motor Tower Pro SG90 And LCD.
 
 ## Prerequisites
 1. Arduino Uno R3
@@ -9,7 +9,9 @@ Ultrasonic Distance Sensor HC-SR04 With Servo Motor Tower Pro SG90.
 5. Breadboard / PCB
 6. LED
 7. Buzzer
-8. Jumper Wires
+8. Potentiometer
+9. LCD Screen
+10. Jumper Wires
 
 ## Breadboard Diagram -
 ![Breadboard Diagram](https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-SC-SR04-With-Servo-Motor/blob/master/Breadboard%20Diagram.jpeg)
